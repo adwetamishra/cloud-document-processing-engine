@@ -1,0 +1,13 @@
+﻿Cloud Document Processing Engine
+
+Document ID: DEMO-001
+Document Type: Sample Business Document
+Company: Demo Technologies
+Department: Engineering
+
+This document demonstrates automated document ingestion,
+text extraction, metadata extraction, and asynchronous
+document processing using Apache Tika, Redis, and Celery.
+
+This sample contains fictional information and is intended
+for software testing and demonstration purposes.
